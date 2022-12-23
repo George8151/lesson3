@@ -9,7 +9,7 @@ a{
        a { color:rgb(23, 115, 143); }
 a:hover { color:rgb(35, 197, 108); }
 .nav a { color:rgb(228, 180, 255);
-       active:active }
+        }
 
 .top { 
       margin-bottom: 60px;
