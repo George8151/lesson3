@@ -1,0 +1,73 @@
+.logo {width: 40px;
+      height: 40px;
+    margin-top: 30px;
+     margin-left: 30px;}
+a{
+       color: rgb(26, 184, 176);
+       text-decoration: none}
+  a:active{color: brown;}
+       a { color:rgb(23, 115, 143); }
+a:hover { color:rgb(35, 197, 108); }
+.nav a { color:rgb(228, 180, 255);
+       active: }
+
+.top { 
+      margin-bottom: 60px;
+       color: rgb(0, 255, 255);
+     margin-top: -20px;
+     margin-left: 80px;
+    font-weight: bold;}
+
+
+.cat1 {margin-left:20px ;
+
+    width: 400px;
+    height: 200px;}
+     
+
+
+h3    {font-size: 28px;
+      color: rgb(35, 21, 66);
+      margin-bottom: 20px;
+      margin-left: 20px;
+       vertical-align: top;
+      font-weight: bold;
+     }
+
+
+div {display: inline-block;
+     width:  930px; 
+     vertical-align: top;
+  color: rgb(119, 119, 119);}
+
+     
+.cat1 {margin-right:48px  ;}
+ 
+span {margin-left: 30px;}  
+
+.sec1 {margin-bottom: 40px;} 
+.sec2 {margin-bottom: 40px;}
+.fotimg {
+    width: 300px;
+    height: auto;
+   
+}
+
+#sqr {width: 1900px;
+     height: 200px;
+     background:rgb(170, 170, 170);
+    margin-bottom: 0px;}
+
+.info {margin-bottom: 15px;
+  margin-left: 20px;}
+.p1con {margin-bottom: 5px;}
+.p2con {margin-bottom: 5px;}
+.map {margin-top: 40px;
+    margin-left: 20px;
+    display:inline;}    
+
+.tel { color: blueviolet;
+     display: inline;
+     margin-top: 20px;
+    }    
+   
